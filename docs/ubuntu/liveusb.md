@@ -8,27 +8,26 @@
 από ένα .iso image. Ακολουθήστε τις οδηγίες των σελίδων τους για να τα
 δημιουργήσετε.
 
-## Ventoy
+## Με Ventoy
 
 Το [ventoy](https://ventoy.net) είναι μία από τις καλύτερες επιλογές και
-υποστηρίζει Windows και Linux. Έχει το πλεονέκτημα ότι αφού δημιουργήσετε ένα
-USB stick, στη συνέχεια μπορείτε να προσθέτετε ή να αφαιρείτε .iso αρχεία
+υποστηρίζει Windows και Linux ή και MacOS. Έχει το πλεονέκτημα ότι αφού δημιουργήσετε ένα
+USB Stickάκι, στη συνέχεια μπορείτε να προσθέτετε ή να αφαιρείτε .iso αρχεία
 τοποθετώντας τα σε έναν υποφάκελο, χωρίς να χρειαστεί να ξαναφορμάρετε το
-stick.
+Stickάκι.
+([Πώς να Εγκαταστήσω το Ventoy;](https://wwwhttps://www.pcsteps.gr/99966-multiboot-usb-%CE%BC%CE%B5-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AC-%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1/.pcsteps.gr/99966-multiboot-usb-%CE%BC%CE%B5-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AC-%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1/))
 
-## Windows
+## Από Windows
 
-Τα παρακάτω λογισμικά εκτελούνται σε Windows και μπορούν να δημιουργήσουν
-live USB sticks για οποιοδήποτε λειτουργικό:
+Η επιλογή παρακάτω υποστηρίζεται μόνο για Windows.
 
-- [Rufus](https://rufus.ie/) ([σχετικό tutorial για
-  ubuntu.iso](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows))
-- [Easy2boot](https://www.easy2boot.com/)
+[Rufus](https://rufus.ie/) ([Σχετικό Tutorial για
+  Οποιοδήποτε Τύπο .iso](https://www.pcsteps.gr/14678-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-boot-usb/))
 
-## Ubuntu
+## Από Linux
 
-Τα παρακάτω λογισμικά εκτελούνται σε Linux και μπορούν να δημιουργήσουν live
-USB sticks για οποιοδήποτε λειτουργικό:
+Τα παρακάτω λογισμικά εκτελούνται σε Linux και μπορούν να δημιουργήσουν Live
+USB Stickάκια για οποιοδήποτε λειτουργικό:
 
 - [Startup disk
   creator](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-ubuntu)
