@@ -36,9 +36,9 @@ plugins:
       output_path: linux.pdf
       toc_level: 2
       toc_title: Πίνακας περιεχομένων
-repo_url: https://github.com/ltsp/el.ltsp.org
+repo_url: https://dimitrysaf.github.io/el.ltsp.org
 site_name: Τεχνική Στήριξη LTSP
-site_url: https://el.ltsp.org
+site_url: https://testing.126822.xyz
 strict: false
 theme:
   custom_dir: overrides
