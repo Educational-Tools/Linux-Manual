@@ -4,9 +4,9 @@
 είτε για εξυπηρετητή ΣΕΠΕΗΥ με LTSP, θα πρέπει καταρχάς να εγκατασταθεί το
 Linux Mint, με βάση τα παρακάτω βήματα:
 
-1. [Επιλογή Έκδοσης Ubuntu και Λήψη](download.md)
+1. [Επιλογή Έκδοσης Linux Mint και Λήψη](download.md)
 2. [Δημιουργία Live USB Stick](liveusb.md)
-3. [Εγκατάσταση του Ubuntu](installation.md)
+3. [Εγκατάσταση του Linux Mint](installation.md)
 4. [Αποθετήρια Λογισμικού](repositories.md)
 5. [Εγκατάσταση Λογισμικού](software.md)
 
