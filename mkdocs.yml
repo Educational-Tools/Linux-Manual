@@ -1,0 +1,153 @@
+copyright: Copyright © 2008-2023 the <a href="https://el.ltsp.org">Τεχνική Στήριξη LTSP</a>
+dev_addr: 0.0.0.0:7101
+edit_uri: tree/main/docs
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.superfences
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify
+      title: Περιεχόμενα σελίδας
+plugins:
+  - minify:
+      minify_html: false
+  - search
+  - with-pdf:
+      author: Έκδοση pdf του https://el.ltsp.org
+      copyright: Copyright © 2008-2023 Τεχνική Στήριξη LTSP
+      cover_title: ΣΕΠΕΗΥ με Linux
+      cover_subtitle: Ubuntu 22.04/LTSP/Epoptes/sch-scripts
+      debug_html: false
+      enabled_if_env: ENABLE_PDF_EXPORT
+      heading_shift: true
+      ordered_chapter_level: 2
+      output_path: linux.pdf
+      toc_level: 2
+      toc_title: Πίνακας περιεχομένων
+repo_url: https://github.com/ltsp/el.ltsp.org
+site_name: Τεχνική Στήριξη LTSP
+site_url: https://el.ltsp.org
+strict: false
+theme:
+  custom_dir: overrides
+  # favicon: favicon.ico
+  features:
+    - todo-navigation.instant
+    # https://squidfunk.github.io/mkdocs-material/upgrade/#contentcodecopy
+    - content.code.copy
+  language: el
+  locale: el
+  logo: stylesheets/ts-logo.png
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Αλλαγή σε σκούρο θέμα
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Αλλαγή σε ανοιχτό θέμα
+  titles_only: true
+nav:
+  - index.md
+  - Ubuntu:
+    - ubuntu/index.md
+    - ubuntu/download.md
+    - ubuntu/liveusb.md
+    - Εγκατάσταση:
+      - ubuntu/installation.md
+      - ubuntu/disk-empty.md
+      - ubuntu/disk-windows.md
+      - ubuntu/disk-linux.md
+    - ubuntu/repositories.md
+    - ubuntu/software.md
+  - ΣΕΠΕΗΥ με LTSP:
+    - ltsp/index.md
+    - Προετοιμασία:
+      - ltsp/preparation.md
+      - ltsp/architecture.md
+      - ltsp/advantages.md
+      - ltsp/disadvantages.md
+      - ltsp/requirements.md
+      - ltsp/map.md
+    - ltsp/installation.md
+    - ltsp/server-network.md
+    - ltsp/ltsp-commands.md
+    - ltsp/users.md
+    - ltsp/netboot.md
+    - ltsp/shared-folders.md
+    - ltsp/ltsp.conf.md
+    - ltsp/hostnames.md
+    - ltsp/dm.md
+    - ltsp/faq.md
+    - Προχωρημένα:
+      - ltsp/advanced.md
+      - ltsp/folder-permissions.md
+      - ltsp/run-commands.md
+      - ltsp/printers.md
+      - ltsp/multiple-labs.md
+      - ltsp/scanners.md
+      - ltsp/maintenance.md
+      - ltsp/groups.md
+      - ltsp/swap-partition.md
+  - Επόπτης:
+    - epoptes/index.md
+    - epoptes/installation.md
+    - epoptes/usage.md
+    - epoptes/groups.md
+    - epoptes/lan-benchmark.md
+    - epoptes/on-ltsp-client.md
+  - Συλλογή οδηγών:
+    - guides/index.md
+    - guides/alice/index.md
+    - guides/appinventor/index.md
+    - guides/arduino/index.md
+    - guides/bonding/index.md
+    - guides/gamemaker/index.md
+    - guides/gparted/index.md
+    - guides/grub/index.md
+    - guides/java/index.md
+    - guides/lamp-server/index.md
+    - guides/multiseat/index.md
+    - guides/phpmyadmin/index.md
+    - guides/python-http-server/index.md
+    - guides/sch-webapp-launcher/index.md
+    - guides/install-with-uefi-windows/index.md
+    - guides/win32-loader/index.md
+    - guides/zoom/index.md
+    - guides/upgrade/index.md
+    - guides/redirect-site/index.md
+    - guides/blacklist-sites/index.md
+    - guides/inventory/index.md
+    - guides/ad-blocking/index.md
+    - guides/remote-access/index.md
+    - guides/smartboards/index.md
+    - guides/virtual-machines/index.md
+    - guides/bios-uefi-boot/index.md
+    - guides/printers/index.md
+    - guides/compatibility/index.md
+    - guides/clean-upgrade/index.md
+    - guides/keyring/index.md
+    - guides/mate-system-monitor/index.md
+    - guides/repo-ubuntu-12_04/index.md
+    - guides/network-issues/index.md
+    - guides/kernels/index.md
+    - guides/bios-uefi-netboot/index.md
+    - guides/contributing/index.md
+  - support/index.md
+  - glossary/index.md
