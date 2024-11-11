@@ -15,7 +15,7 @@
 USB Stickάκι, στη συνέχεια μπορείτε να προσθέτετε ή να αφαιρείτε .iso αρχεία
 τοποθετώντας τα σε έναν υποφάκελο, χωρίς να χρειαστεί να ξαναφορμάρετε το
 Stickάκι.
-([Πώς να Εγκαταστήσω το Ventoy;](https://wwwhttps://www.pcsteps.gr/99966-multiboot-usb-%CE%BC%CE%B5-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AC-%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1/.pcsteps.gr/99966-multiboot-usb-%CE%BC%CE%B5-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AC-%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1/))
+([Πώς να Εγκαταστήσω το Ventoy;](https://www.pcsteps.gr/99966-multiboot-usb-%CE%BC%CE%B5-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AC-%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1/))
 
 ## Από Windows
 
@@ -24,7 +24,7 @@ Stickάκι.
 [Rufus](https://rufus.ie/) ([Σχετικό Tutorial για
   Οποιοδήποτε Τύπο .iso](https://www.pcsteps.gr/14678-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-boot-usb/))
 
-## Από Linux
+## Από Linux (Δεν Προτείνεται για Αρχάριους)
 
 Τα παρακάτω λογισμικά εκτελούνται σε Linux και μπορούν να δημιουργήσουν Live
 USB Stickάκια για οποιοδήποτε λειτουργικό:
