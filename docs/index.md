@@ -6,10 +6,9 @@
 
 ## Αρχική Εγκατάσταση και Διαχείριση
 
--   ![](images/ubuntu.png#right-icon)Για εγκατάσταση Ubuntu σε οποιονδήποτε
-    υπολογιστή, ακολουθήστε τις οδηγίες της ενότητας [Ubuntu](ubuntu/index.md).
--   Για προσθήκη λογισμικού, δείτε την [ομώνυμη
-    σελίδα](ubuntu/software.md).
+-   ![](images/LMDE.png#right-icon)Για εγκατάσταση Linux Mint Debian Edition 
+    σε οποιονδήποτε υπολογιστή, ακολουθήστε τις οδηγίες της ενότητας [Linux Mint](mint/index.md).
+-   Για προσθήκη λογισμικού, δείτε την [Ομώνυμη Σελίδα](mint/software.md).
 -   ![](images/ltsp.png#right-icon)Για να μεταμορφώσετε σε LTSP server έναν
     υπολογιστή με ήδη εγκατεστημένο Ubuntu, δείτε την ενότητα [ΣΕΠΕΗΥ με
     LTSP](ltsp/index.md).
