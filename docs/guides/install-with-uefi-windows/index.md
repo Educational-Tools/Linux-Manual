@@ -16,9 +16,9 @@ UEFI mode. Σε αυτήν την περίπτωση, αν δε θέλετε ν�
         το live USB stick, τότε δεν προχωράτε σε εγκατάσταση.
 
 2.  [![](type-of-installation.png)](type-of-installation.png) Ακολουθείτε τα
-    βήματα [Εγκατάσταση του Ubuntu](../../ubuntu/installation/). Στο βήμα
+    βήματα [Εγκατάσταση του Ubuntu](../../mint/installation/). Στο βήμα
     εγκατάστασης [Διατήρηση του περιβάλλοντος Microsoft
-    Windows](../../ubuntu/disk-windows.md#διατήρηση-του-περιβάλλοντος-microsoft-windows),
+    Windows](../../mint/disk-windows.md#διατήρηση-του-περιβάλλοντος-microsoft-windows),
     στην περίπτωση των UEFI Windows, επιλέγουμε ***Εγκατάσταση του Ubuntu MATE
     μαζί με το Windows Boot Manager*** όπως φαίνεται στη διπλανή εικόνα.
 
@@ -42,7 +42,7 @@ lsblk --fs
 mount /dev/sda2 /mnt
 cd /mnt/EFI/Microsoft/Boot/
 mv bootmgfw.efi bootmgfw-real.efi
-cp -a ../../ubuntu/grubx64.efi bootmgfw.efi
+cp -a ../../mint/grubx64.efi bootmgfw.efi
 cd /
 umount /mnt
 mount /dev/sda5 /mnt

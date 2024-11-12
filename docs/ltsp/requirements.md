@@ -36,7 +36,7 @@ Ubuntu](https://ubuntu-mate.org/about/requirements/).
 
 Μπορείτε να ελέγξετε τη συμβατότητα του υλικού του εξυπηρετητή ή των σταθμών
 εργασίας με το Ubuntu εκκινώντας τους με ένα [live
-USB/CD](../ubuntu/liveusb.md).
+USB/CD](../mint/liveusb.md).
 
 ## Τοπικό δίκτυο
 

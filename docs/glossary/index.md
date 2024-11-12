@@ -34,7 +34,7 @@
 συστήματος Linux. Βασίζεται στο [Debian](https://www.debian.org/) και
 υποστηρίζεται από την εταιρία Canonical.
 
-- [Οδηγός](../ubuntu/index.md), [ιστοσελίδα](https://ubuntu.com)
+- [Οδηγός](../mint/index.md), [ιστοσελίδα](https://ubuntu.com)
 
 ## Τερματικό (terminal) {#terminal}
 
