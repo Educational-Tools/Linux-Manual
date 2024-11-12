@@ -8,3 +8,4 @@
    <https://pe86.github.io/linux/epoptes/Δημιουργία_τάξης/>
 3. `killall -f firefox` or `killall GeckoMain`
    <https://pe86.github.io/linux/epoptes/Διαδραστική_εκπαίδευση/#εκτέλεση-εντολής-στους-επιλεγμένους-υπολογιστές>
+4. Να γίνει νέα σελίδα για την δήλωση των flatpak εφαρμογών. Στην κατηγορία Συλλογή Οδηγών

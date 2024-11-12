@@ -14,7 +14,7 @@
 - Υποστήριξη Πολλαπλών ISO: Μπορείτε να αποθηκεύσετε πολλαπλά .iso αρχεία στο ίδιο USB stick και να επιλέξετε ποιο να εκκινήσετε.
 
 Για λεπτομερείς οδηγίες, ανατρέξτε στον οδηγό εγκατάστασης:
-- [Πώς να Εγκαταστήσετε το Ventoy](https://www.pcsteps.gr/99966-multiboot-usb-%CE%BC%CE%B5-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AC-%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1/)
+- ([Πώς να Εγκαταστήσετε το Ventoy](https://www.pcsteps.gr/99966-multiboot-usb-%CE%BC%CE%B5-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AC-%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%B1/))
 
 <hr/>
 
@@ -27,8 +27,8 @@
 - Υποστηρίζει Ποικίλα ISO: Μπορεί να δημιουργήσει bootable USB για διάφορους τύπους λειτουργικών συστημάτων.
 
 Μάθετε περισσότερα εδώ:
-- [Rufus](https://rufus.ie/)
-- [Σχετικό Tutorial για Οποιοδήποτε Τύπο .iso](https://www.pcsteps.gr/14678-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-boot-usb/)
+- ([Rufus](https://rufus.ie/))
+- ([Σχετικό Tutorial για Οποιοδήποτε Τύπο .iso](https://www.pcsteps.gr/14678-%CE%B4%CE%B7%CE%BC%CE%B9%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-boot-usb/))
 
 
 
