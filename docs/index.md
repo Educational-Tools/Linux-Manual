@@ -9,23 +9,23 @@
 ### 1. Εγκατάσταση του Linux Mint
 Οδηγίες για την εγκατάσταση του Linux Mint στον υπολογιστή σας ή στο σχολικό σας δίκτυο.
 
-a. [Δημιουργία Live USB](mint/liveusb.md)
-b. [Λήψη του Linux Mint](mint/download.md)
-c. [Εγκατάσταση του Linux Mint](mint/installation.md)
+- [Δημιουργία Live USB](mint/liveusb.md)
+- [Λήψη του Linux Mint](mint/download.md)
+- [Εγκατάσταση του Linux Mint](mint/installation.md)
 
 ### 2. Ρυθμίσεις και Διαχείριση Εφαρμογών
 Πλήρης οδηγός για τη διαχείριση λογισμικού στο Linux Mint.
 
-a. [Προσθήκη Αποθετήριων MySCH](mint/sch-repos.md)
-b. [Διαχείριση Αποθετηρίων](mint/repositories.md)
-c. [Εγκατάσταση Εφαρμογών MySCH](mint/sch-apps.md)
-d. [Διαχείριση Εφαρμογών](mint/manage-apps.md)
+- [Προσθήκη Αποθετήριων MySCH](mint/sch-repos.md)
+- [Διαχείριση Αποθετηρίων](mint/repositories.md)
+- [Εγκατάσταση Εφαρμογών MySCH](mint/sch-apps.md)
+- [Διαχείριση Εφαρμογών](mint/manage-apps.md)
 
 ### 3. Εγκατάσταση και Χρήση LTSP
 Οδηγίες για την εγκατάσταση και ρύθμιση του **LTSP** στο διακομιστή σας και τη σύνδεση τερματικών.
 
-a. [Ρυθμίσεις Διακομιστή και Δικτύου](ltsp/server-network.md)
-b. [Διαχείριση Χρηστών και Κοινών Φακέλων](ltsp/users.md)
+- [Ρυθμίσεις Διακομιστή και Δικτύου](ltsp/server-network.md)
+- [Διαχείριση Χρηστών και Κοινών Φακέλων](ltsp/users.md)
 
 ### 4. Χρήση Εργαλείων για Σχολεία
 Πληροφορίες για την εγκατάσταση και χρήση του **Epoptes** και άλλων εργαλείων για την παρακολούθηση και διαχείριση των μαθητών.
