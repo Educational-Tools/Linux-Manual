@@ -1,4 +1,4 @@
-copyright: Copyright © 2024-2024 the <a href="https://dimitrysaf.github.io/el.ltsp.org/">Υποστήριξη LTSP</a>
+copyright: Copyright © 2024-2024 η <a href="https://dimitrysaf.github.io/el.ltsp.org/">Υποστήριξη Linux</a>
 dev_addr: 0.0.0.0:7101
 edit_uri: tree/main/docs
 docs_dir: docs/
@@ -36,7 +36,7 @@ plugins:
       toc_level: 2
       toc_title: Πίνακας Περιεχομένων
 repo_url: https://github.com/Dimitrysaf/el.ltsp.org
-site_name: Υποστήριξη LTSP
+site_name: Υποστήριξη Linux
 site_url: https://dimitrysaf.github.io/el.ltsp.org
 strict: false
 theme:
