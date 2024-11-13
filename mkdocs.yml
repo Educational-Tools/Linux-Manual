@@ -1,6 +1,7 @@
 copyright: Copyright © 2008-2023 the <a href="https://el.ltsp.org">Τεχνική Στήριξη LTSP</a>
 dev_addr: 0.0.0.0:7101
 edit_uri: tree/main/docs
+docs_dir: docs/
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
