@@ -4,9 +4,9 @@
 
 ---
 
-## Linux Mint ![](lm-logo.png#right-icon)
+## Linux Mint
 
-### 1. Εγκατάσταση του Linux Mint
+### 1. Εγκατάσταση του Linux Mint ![](lm-logo.png#right-icon)
 Οδηγίες για την εγκατάσταση του Linux Mint στον υπολογιστή σας ή στο σχολικό σας δίκτυο.
 
 - [Δημιουργία Live USB](mint/liveusb.md)
