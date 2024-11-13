@@ -27,9 +27,9 @@ plugins:
   - search
   - with-pdf:
       author: Έκδοση pdf του Dimitrys_AF
-      copyright: Copyright © 2008-2023 Τεχνική Υποστήριξη LTSP
-      cover_title: ΣΕΠΕΗΥ με Linux
-      cover_subtitle: Ubuntu 22.04/LTSP/Epoptes/sch-scripts
+      copyright: Copyright © 2023-2024 Υποστήριξη LTSP
+      cover_title:Εγχειρίδιο για τα Linux
+      cover_subtitle: LMDE 6/LTSP/Epoptes/sch-scripts
       debug_html: false
       enabled_if_env: ENABLE_PDF_EXPORT
       heading_shift: true
@@ -37,9 +37,9 @@ plugins:
       output_path: linux_man.pdf
       toc_level: 2
       toc_title: Πίνακας Περιεχομένων
-repo_url: https://dimitrysaf.github.io/el.ltsp.org
-site_name: Τεχνική Υποστήριξη LTSP
-site_url: https://testing.126822.xyz
+repo_url: https://github.com/Dimitrysaf/el.ltsp.org
+site_name: Υποστήριξη LTSP
+site_url: https://dimitrysaf.github.io/el.ltsp.org
 strict: false
 theme:
   # favicon: favicon.ico
