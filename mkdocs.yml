@@ -27,7 +27,7 @@ plugins:
   - search
   - with-pdf:
       author: Έκδοση pdf του Dimitrys_AF
-      copyright: Copyright © 2023-2024 Υποστήριξη LTSP
+      copyright: Copyright © 2024-2024 Υποστήριξη LTSP
       cover_title: Εγχειρίδιο για τα Linux
       cover_subtitle: LMDE 6/LTSP/Epoptes/sch-scripts
       debug_html: false
