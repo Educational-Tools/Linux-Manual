@@ -308,8 +308,8 @@ blockquote > p > a[href$="#md-note"] {
   background-image: url(../images/note.svg);
   background-repeat: no-repeat;
   padding: 0 0 0em 2em;
-  margin-bottom-: 0.2em;
-  border-bottom-: 0.01em solid #00000080;
+  margin-bottom: 0.2em;
+  border-bottom: 0.01em solid #00000080;
 }
 
 /* Make two-spaces-break at EOL optional; with it, it's better on github */
