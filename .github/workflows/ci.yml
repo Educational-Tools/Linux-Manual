@@ -1,16 +1,35 @@
-name: ci
+name: Deploy Website
 
 on:
   push:
     branches:
-      - main
+      - main  # Or any branch you want to trigger deployment on
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          python-version: 3.x
-      - run: dev/deploy.sh
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install mkdocs ghp-import
+
+    - name: Build the site
+      run: mkdocs build
+
+    - name: Deploy to GitHub Pages
+      run: |
+        ghp-import -n -p -f site
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Educational-Tools/Linux-Manual.git
+        git push origin gh-pages --force
