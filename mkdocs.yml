@@ -27,7 +27,7 @@ plugins:
       author: Έκδοση pdf του Dimitrys_AF
       copyright: Copyright © 2024-2024 Υποστήριξη LTSP
       cover_title: Εγχειρίδιο για τα Linux
-      cover_subtitle: LMDE 6/LTSP/Epoptes/sch-scripts
+      cover_subtitle: LMDE 6/LTSP/Epoptes/SCH-Scripts
       debug_html: false
       enabled_if_env: ENABLE_PDF_EXPORT
       heading_shift: true
@@ -35,9 +35,9 @@ plugins:
       output_path: linux_man.pdf
       toc_level: 2
       toc_title: Πίνακας Περιεχομένων
-repo_url: https://github.com/Dimitrysaf/el.ltsp.org
-site_name: Υποστήριξη Linux
-site_url: https://dimitrysaf.github.io/el.ltsp.org
+repo_url: https://github.com/Educational-Tools/Linux-Manual
+site_name: Εγχειρίδιο Linux
+site_url: https://educational-tools.github.io/Linux-Manual/
 strict: false
 theme:
   # favicon: favicon.ico
