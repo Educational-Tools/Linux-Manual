@@ -4,40 +4,30 @@
 
 ---
 
-## Linux Mint Λ.Σ.
+## Linux Mint Λ.Σ. ![](lm-logo.png#right-icon)
 
-### 1. Εγκατάσταση του Linux Mint ![](lm-logo.png#right-icon)
-Οδηγίες για την εγκατάσταση του Linux Mint στον υπολογιστή σας ή στο σχολικό σας δίκτυο.
-
+### 1. Εγκατάσταση του Linux Mint
 - [Δημιουργία Live USB](mint/liveusb.md)
 - [Λήψη του Linux Mint](mint/download.md)
 - [Εγκατάσταση του Linux Mint](mint/installation.md)
 
 ### 2. Ρυθμίσεις και Διαχείριση Εφαρμογών
-Πλήρης οδηγός για τη διαχείριση λογισμικού στο Linux Mint.
-
 - [Προσθήκη Αποθετήριων MySCH](mint/sch-repos.md)
 - [Διαχείριση Αποθετηρίων](mint/repositories.md)
 - [Εγκατάσταση Εφαρμογών MySCH](mint/sch-apps.md)
 - [Διαχείριση Εφαρμογών](mint/manage-apps.md)
 
-## LTSP Διακομιστής
+## LTSP Διακομιστής ![](ltsp-logo.png#right-icon)
 
-### 1. Εγκατάσταση και Χρήση LTSP ![](ltsp-logo.png#right-icon)
-Οδηγίες για την εγκατάσταση και ρύθμιση του **LTSP** στο διακομιστή σας και τη σύνδεση τερματικών.
-
+### 1. Εγκατάσταση και Χρήση LTSP
 - [Ρυθμίσεις Διακομιστή και Δικτύου](ltsp/server-network.md)
 - [Διαχείριση Χρηστών και Κοινών Φακέλων](ltsp/users.md)
 
 ### 2. Χρήση Εργαλείων για Σχολεία
-Πληροφορίες για την εγκατάσταση και χρήση του **Epoptes** και άλλων εργαλείων για την παρακολούθηση και διαχείριση των μαθητών.
-
 - [Χρήση Epoptes για Διαχείριση Κλάσης](epoptes/usage.md)
 
 ---
 
 ## Λήψη του PDF
 
-Εάν προτιμάτε να διαβάσετε το εγχειρίδιο offline, μπορείτε να το κατεβάσετε σε μορφή PDF:
-
-[Λήψη του Εγχειρίδιου σε PDF ](https://dimitrysaf.github.io/el.ltsp.org/linux_man.pdf)
+[Λήψη του Εγχειρίδιου σε PDF](https://dimitrysaf.github.io/el.ltsp.org/linux_man.pdf)
