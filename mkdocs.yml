@@ -1,4 +1,4 @@
-copyright: Copyright © 2024-2024 η <a href="https://dimitrysaf.github.io/el.ltsp.org/">Υποστήριξη Linux</a>
+copyright: Copyright © 2024-2024 the <a href="https://dimitrysaf.github.io/el.ltsp.org/">Linux Support</a>
 dev_addr: 0.0.0.0:7101
 edit_uri: tree/main/docs
 docs_dir: docs/
@@ -18,25 +18,25 @@ markdown_extensions:
   - toc:
       permalink: true
       slugify: !!python/name:pymdownx.slugs.uslugify
-      title: Περιεχόμενα Σελίδας
+      title: Page Content
 plugins:
   - minify:
       minify_html: false
   - search
   - with-pdf:
-      author: Έκδοση pdf του Dimitrys_AF
-      copyright: Copyright © 2024-2024 Υποστήριξη LTSP
-      cover_title: Εγχειρίδιο για τα Linux
-      cover_subtitle: LMDE 6/LTSP/Epoptes/SCH-Scripts
+      author: Version of Dimitrys_AF
+      copyright: Copyright © 2024-2024 LTSP Support
+      cover_title: Linux Manual for School Servers
+      cover_subtitle: LMDE 6/LTSP/Epoptes/Sch-Scripts
       debug_html: false
       enabled_if_env: ENABLE_PDF_EXPORT
       heading_shift: true
       ordered_chapter_level: 2
       output_path: linux_man.pdf
       toc_level: 2
-      toc_title: Πίνακας Περιεχομένων
+      toc_title: Content Table
 repo_url: https://github.com/Educational-Tools/Linux-Manual
-site_name: Εγχειρίδιο Linux
+site_name: Linux Manual
 site_url: https://educational-tools.github.io/Linux-Manual/
 strict: false
 theme:
@@ -45,8 +45,8 @@ theme:
     - todo-navigation.instant
     # https://squidfunk.github.io/mkdocs-material/upgrade/#contentcodecopy
     - content.code.copy
-  language: el
-  locale: el
+  language: en
+  locale: en
   logo: stylesheets/ts-logo.png
   name: material
   palette:
@@ -54,12 +54,12 @@ theme:
       scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Αλλαγή σε Σκούρο Θέμα
+        name: Switch to Dark Mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Αλλαγή σε Ανοιχτό Θέμα
+        name: Switch to Light Mode
   titles_only: true
 nav:
   - index.md
