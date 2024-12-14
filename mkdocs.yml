@@ -63,5 +63,3 @@ theme:
   titles_only: true
 nav:
   - index.md
-  - Linux Mint:
-    - mint/index.md

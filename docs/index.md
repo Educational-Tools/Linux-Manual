@@ -35,3 +35,24 @@ LMDE, on the other hand, is directly based on Debian, a distribution renowned fo
 * Familiar Package Management: The use of the apt package manager, familiar to many Linux users, makes software installation and management straightforward.
 
 In summary, while Ubuntu Mate is a fine desktop operating system, the increasing prevalence of snap packages and their associated issues make LMDE a more suitable and efficient choice for our Linux School Server. Its Debian base provides the stability, performance, and control that are crucial for a reliable and manageable server environment.
+
+## Requirements
+Since we're working with fat clients, the server's primary role is to provide the operating system, applications, and user data, while the actual processing happens on the client machines. This means the server requirements, while important, are less demanding than in a thin client setup.
+
+Here's a breakdown of the essential hardware components with minimum and recommended specifications:
+
+- CPU:
+    *  Minimum: Quad-core processor (e.g., Intel Core i5 or equivalent)
+    *  Recommended: Hexa-core or Octa-core processor (e.g., Intel Core i7 or AMD Ryzen 7)
+
+- RAM:
+    * Minimum: 8 GB DDR4
+    * Recommended: 16 GB DDR4 or more
+
+- Disk Space:
+    * Minimum: 250 GB SSD (Solid State Drive)
+    * Recommended: 500 GB SSD or 1 TB NVMe SSD
+
+- Network Card:
+    * Minimum: Gigabit Ethernet (1 Gbps)
+    * Recommended: 10 Gigabit Ethernet (10 Gbps) or multiple Gigabit Ethernet ports with link aggregation
