@@ -41,18 +41,18 @@ Since we're working with fat clients, the server's primary role is to provide th
 
 Here's a breakdown of the essential hardware components with minimum and recommended specifications:
 
-- CPU:
+1. CPU:
     *  Minimum: Quad-core processor (e.g., Intel Core i5 or equivalent)
     *  Recommended: Hexa-core or Octa-core processor (e.g., Intel Core i7 or AMD Ryzen 7)
 
-- RAM:
+2. RAM:
     * Minimum: 8 GB DDR4
     * Recommended: 16 GB DDR4 or more
 
-- Disk Space:
+3. Disk Space:
     * Minimum: 250 GB SSD (Solid State Drive)
     * Recommended: 500 GB SSD or 1 TB NVMe SSD
 
-- Network Card:
+4. Network Card:
     * Minimum: Gigabit Ethernet (1 Gbps)
     * Recommended: 10 Gigabit Ethernet (10 Gbps) or multiple Gigabit Ethernet ports with link aggregation
