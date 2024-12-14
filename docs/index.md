@@ -1,4 +1,4 @@
-# Linux School Server
+# **Linux School Server**
 
 !!! note
     This manual is available in a PDF format and can be downloaded and printed.<br>
