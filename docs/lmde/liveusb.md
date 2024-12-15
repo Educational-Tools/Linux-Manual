@@ -26,12 +26,14 @@ The following software runs on Windows and can create live USB sticks for any op
 The following software runs on Linux and can create live USB sticks for any operating system:
 
 - [Startup disk creator](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html)
+!!! warning "Outdated"
+    These is really outdated, and not recommended to use.
 - [Unetbootin](https://fossbytes.com/create-bootable-usb-media-from-iso-ubuntu/)
 - [dd](https://fossbytes.com/create-bootable-usb-media-from-iso-ubuntu/)
 
 ## LiveUSB
 
-!!! warning
+!!! warning "Outdated"
     This is really outdated, and not recommended to use.
 <https://github.com/alkisg/liveusb> predates ventoy and also supports adding .iso by copy/paste. But it has no graphical interface and is not recommended to use it except in a few cases where the other methods don't work, for example if we want to boot.
 [lmde-6-cinnamon-64bit.iso](https://repo.greeklug.gr/data/pub/linux/mint/iso/debian/lmde-6-cinnamon-64bit.iso) on a computer with UEFI.
