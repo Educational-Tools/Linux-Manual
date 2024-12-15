@@ -16,6 +16,7 @@ If you need more information, you can consult the following sources:
 - Or via the link, [Linux Mint Documenation](https://linuxmint.com/documentation.php) is available online.
 
 The documentation devides to many parts. These parts can be downloaded in a PDF format.
+
 1. [Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/)
 2. [User Guide](https://linuxmint-user-guide.readthedocs.io/en/latest/)
 3. [Troubleshooting Guide](https://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/)
