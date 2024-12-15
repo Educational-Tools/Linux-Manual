@@ -27,7 +27,7 @@ The following software runs on Linux and can create live USB sticks for any oper
 
 - [Startup disk creator](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html)
 !!! warning "Outdated"
-    These is really outdated, and not recommended to use.
+    These are really outdated, and not recommended to use.
 - [Unetbootin](https://fossbytes.com/create-bootable-usb-media-from-iso-ubuntu/)
 - [dd](https://fossbytes.com/create-bootable-usb-media-from-iso-ubuntu/)
 
