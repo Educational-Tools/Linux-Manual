@@ -14,14 +14,14 @@ After downloading, follow the instructions to create a [live USB stick](liveusb.
 ## Why Choose LMDE?
 
 !!! info
-    This section gives extra details. You can skip it if you’re in a hurry.
+    This section gives extra details. You may skip it if you’re in a hurry.
 
 Here are some reasons why LMDE is a great choice compared to other operating systems:
 
 ### Benefits of LMDE
 
-- It uses an LTS (Long-Term Support) kernel, meaning it’s stable and secure for a long time.
-- It doesn’t rely on Ubuntu but is based directly on Debian, making it more independent.
+- It uses an [LTS (Long-Term Support)](https://en.wikipedia.org/wiki/Long-term_support) kernel, meaning it’s stable and secure for a long time.
+- It doesn’t rely on [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) but is based directly on [Debian](https://en.wikipedia.org/wiki/Debian), making it more independent.
 - The update process is simpler and less likely to introduce experimental changes.
 - It combines Debian’s lightweight and reliable system with a modern and user-friendly interface.
 
@@ -32,10 +32,10 @@ Here are some reasons why LMDE is a great choice compared to other operating sys
 
 ### Why use Cinnamon?
 
-Cinnamon is the default desktop environment for LMDE, and here’s how it compares to other options:
+[Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)) is the default desktop environment for LMDE, and here’s how it compares to other options:
 
-- GNOME: It has many features but needs a powerful computer to run smoothly. Cinnamon offers a similar look but works much faster, even on older systems.
-- MATE: MATE is lightweight and works well on older computers, but it doesn’t have as many modern features as Cinnamon. Cinnamon strikes a great balance between speed and features.
-- LXQt: LXQt uses fewer resources, but it’s too simple for most people. Cinnamon is easier to use and has more features.
-- XFCE: XFCE is lightweight and stable, but its development is slower and it doesn’t have as many built-in tools as Cinnamon. Cinnamon feels more complete and polished.
-- KDE: KDE has improved a lot and is now lightweight, but it can feel too complicated for beginners. Cinnamon is designed to be simple and easy to use, making it perfect for schools and everyday use.
+- [GNOME](https://en.wikipedia.org/wiki/GNOME): It has many features but needs a powerful computer to run smoothly. Cinnamon offers a similar look but works much faster, even on older systems.
+- [MATE](https://en.wikipedia.org/wiki/MATE_(desktop_environment)): MATE is lightweight and works well on older computers, but it doesn’t have as many modern features as Cinnamon. Cinnamon strikes a great balance between speed and features.
+- [LXQt](https://en.wikipedia.org/wiki/LXQt): LXQt uses fewer resources, but it’s too simple for most people. Cinnamon is easier to use and has more features.
+- [XFCE](https://en.wikipedia.org/wiki/Xfce): XFCE is lightweight and stable, but its development is slower and it doesn’t have as many built-in tools as Cinnamon. Cinnamon feels more complete and polished.
+- [KDE](https://en.wikipedia.org/wiki/KDE): KDE has improved a lot and is now lightweight, but it can feel too complicated for beginners. Cinnamon is designed to be simple and easy to use, making it perfect for schools and everyday use.
