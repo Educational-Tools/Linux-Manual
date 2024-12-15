@@ -1,4 +1,4 @@
-copyright: Copyright © 2024-2024 the <a href="https://dimitrysaf.github.io/el.ltsp.org/">Linux Support</a>
+copyright: Copyright © 2024-2024 the <a href="https://educational-tools.github.io/Linux-Manual/">Linux Support</a>
 dev_addr: 0.0.0.0:7101
 edit_uri: tree/main/docs
 docs_dir: docs/
@@ -26,7 +26,7 @@ plugins:
   - with-pdf:
       author: Version of Dimitrys_AF
       copyright: Copyright © 2024-2024 LTSP Support
-      cover_title: Linux Manual for School Servers
+      cover_title: Tech Support for School Servers
       cover_subtitle: LMDE 6/LTSP/Epoptes/Sch-Scripts
       debug_html: false
       enabled_if_env: ENABLE_PDF_EXPORT
@@ -36,14 +36,12 @@ plugins:
       toc_level: 2
       toc_title: Content Table
 repo_url: https://github.com/Educational-Tools/Linux-Manual
-site_name: Linux Manual
+site_name: Tech Support LTSP
 site_url: https://educational-tools.github.io/Linux-Manual/
 strict: false
 theme:
-  # favicon: favicon.ico
   features:
     - todo-navigation.instant
-    # https://squidfunk.github.io/mkdocs-material/upgrade/#contentcodecopy
     - content.code.copy
   language: en
   locale: en
@@ -53,12 +51,12 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to Dark Mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to Light Mode
   titles_only: true
 nav:
