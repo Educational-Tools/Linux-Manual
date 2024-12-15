@@ -12,10 +12,10 @@
 
 If you need more information, you can consult the following sources:
 
-- Linux Mint includes an online guide available from pressing ++f1++.
+- Linux Mint includes an online guide available from pressing ++f1++ on the desktop.
 - Or via the link, [Linux Mint Documenation](https://linuxmint.com/documentation.php) is available online.
 
-The documentation devides to many parts. These parts can be downloaded in a PDF format.
+The documentation is devided into many parts. These parts can be downloaded in a PDF format.
 
 1. [Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/)
 2. [User Guide](https://linuxmint-user-guide.readthedocs.io/en/latest/)

@@ -66,4 +66,14 @@ theme:
   titles_only: true
 nav:
   - index.md
-  - lmde/index.md
+  - Linux Mint:
+    - lmde/index.md
+    - lmde/download.md
+    - lmde/liveusb.md
+    - Installation:
+      - lmde/installation.md
+      - lmde/disk-empty.md
+      - lmde/disk-windows.md
+      - lmde/disk-linux.md
+    - lmde/repositories.md
+    - lmde/software.md
