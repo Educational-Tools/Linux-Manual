@@ -77,3 +77,11 @@ nav:
       - lmde/disk-linux.md
     - lmde/repositories.md
     - lmde/software.md
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Ελληνικά
+      link: /el/
+      lang: el
