@@ -9,15 +9,15 @@ There are many programs that can create live USB sticks from an .iso image. Foll
 
 ## Ventoy
 
-[ventoy](https://ventoy.net) is one of the best options and supports Windows and Linux. It has the advantage that once you create a USB stick, you can then add or remove .iso files by placing them in a subfolder without having to reload the stick.(:material-youtube:[related tutorial for](https://youtu.be/CuonyS3xdwg?t=125&si=_qxSIHNg0bgk9V9n))
+[ventoy](https://ventoy.net) is one of the best options and supports Windows and Linux. It has the advantage that once you create a USB stick, you can then add or remove .iso files by placing them in a subfolder without having to reload the stick.(:material-youtube: [related tutorial for](https://youtu.be/CuonyS3xdwg?t=125&si=_qxSIHNg0bgk9V9n))
 
 ## Windows
 
 The following software runs on Windows and can create live USB sticks for any operating system:
 
-- [Rufus](https://rufus.ie/) (:material-youtube:[related tutorial for
+- [Rufus](https://rufus.ie/) (:material-youtube: [related tutorial for
   lmde-6-cinnamon.iso](https://www.youtube.com/watch?v=UsJ6z3RMic8))
-- [Easy2boot](https://www.easy2boot.com/)(https://www.easy2boot.com/)
+- [Easy2boot](https://www.easy2boot.com/)
 
 ## Linux
 !!! note
