@@ -80,7 +80,7 @@ nav:
 extra:
   alternate:
     - name: English
-      link: /en/
+      link: /
       lang: en
     - name: Ελληνικά
       link: /el/
