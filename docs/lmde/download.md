@@ -4,14 +4,16 @@ Choose one of the following versions of Linux Mint Debian Edition (LMDE) based o
 
 - If your computer is relatively new and has more than 2 GB of RAM, download [LMDE 6 "Faye" 64bit](https://repo.greeklug.gr/data/pub/linux/mint/iso/debian/lmde-6-cinnamon-64bit.iso).
 - If your computer is older and has less than 2 GB of RAM, you might want to look at lighter options like antiX or Puppy Linux because LMDE needs at least 2 GB of RAM.
-Still want LMDE? [LMDE for 32-bit machines](https://repo.greeklug.gr/data/pub/linux/mint/iso/debian/lmde-6-cinnamon-32bit.iso)
-Both mirrors use [GreekLUG](https://www.greeklug.gr/en/)
+Still want LMDE? [LMDE for 32-bit machines](https://repo.greeklug.gr/data/pub/linux/mint/iso/debian/lmde-6-cinnamon-32bit.iso).
+
+!!! note
+    Both mirrors use [GreekLUG](https://www.greeklug.gr/en/)
 
 After downloading, follow the instructions to create a [live USB stick](liveusb.md).
 
 ## Why Choose LMDE?
 
-!!!! info
+!!! info
 This section gives extra details. You can skip it if you’re in a hurry.
 
 Here are some reasons why LMDE is a great choice compared to other operating systems:
@@ -28,7 +30,7 @@ Here are some reasons why LMDE is a great choice compared to other operating sys
 - You might find fewer pre-configured packages (like third-party PPAs) than in Ubuntu.
 - New versions of some apps can take a bit longer to arrive because Debian tests them thoroughly before releasing them.
 
-### Why Use Cinnamon?
+### Why use Cinnamon?
 
 Cinnamon is the default desktop environment for LMDE, and here’s how it compares to other options:
 
