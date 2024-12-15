@@ -14,7 +14,7 @@ After downloading, follow the instructions to create a [live USB stick](liveusb.
 ## Why Choose LMDE?
 
 !!! info
-This section gives extra details. You can skip it if you’re in a hurry.
+    This section gives extra details. You can skip it if you’re in a hurry.
 
 Here are some reasons why LMDE is a great choice compared to other operating systems:
 
