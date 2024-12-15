@@ -31,6 +31,8 @@ Here are some reasons why LMDE is a great choice compared to other operating sys
 - New versions of some apps can take a bit longer to arrive because Debian tests them thoroughly before releasing them.
 
 ### Why use Cinnamon?
+!!! note
+    Desktop Environment is all the user interface the desktop has, hence desktop environment.
 
 [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)) is the default desktop environment for LMDE, and here’s how it compares to other options:
 
