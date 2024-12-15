@@ -62,4 +62,4 @@ theme:
 nav:
   - index.md
   - Linux Mint
-  - lmde/index.md
+    - lmde/index.md
