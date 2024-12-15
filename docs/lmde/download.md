@@ -32,7 +32,7 @@ Here are some reasons why LMDE is a great choice compared to other operating sys
 
 ### Why use Cinnamon?
 !!! note
-    Desktop Environment is all the user interface the desktop has, hence desktop environment.
+    [Desktop Environment](https://en.wikipedia.org/wiki/Desktop_environment) is all the user interface the desktop has, hence desktop environment.
 
 [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)) is the default desktop environment for LMDE, and here’s how it compares to other options:
 
