@@ -15,3 +15,5 @@
 - ![](images/epoptes.svg#right-icon)The [Epoptes](epoptes/index.md) application allows teachers to control lab computers, do screen viewing, etc.
 - In the [Guides](guides/index.md) section you can search for information on various topics and applications.
 - [Support](support/index.md) for the solution is offered through discussion websites, forums, internet search, reddit forums, or guides from here.
+
+This is a git test
