@@ -5,7 +5,7 @@ Although most operating systems are available in .iso format, it is now common t
 There are many programs that can create live USB sticks from an .iso image. Follow the instructions on their pages to create them.
 
 !!! danger
-    The following steps include **formating** your USB stick, and **will** the files inside it. Please make sure to **backup** any important files in it before you continue.
+    The following steps include **formating** your USB stick, and **will** delete the files inside it. Please make sure to **backup** any important files in it before you continue.
 
 ## Ventoy
 
