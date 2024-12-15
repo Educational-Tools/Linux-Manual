@@ -1,8 +1,7 @@
 # Linux manual start
 
 !!! note
-    This manual refers mainly to schools using Linux Mint Debian Edition. It is also available in a<br>
-    [:fontawesome-solid-file-pdf: PDF format](https://educational-tools.github.io/Linux-Manual/linux_man.pdf).
+    This manual refers mainly to schools using Linux Mint Debian Edition. It is also available in a  [:fontawesome-solid-file-pdf: PDF format](https://educational-tools.github.io/Linux-Manual/linux_man.pdf).
 
 ## Initial installation and administration
 
