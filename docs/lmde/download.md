@@ -4,7 +4,7 @@ Choose one of the following versions of Linux Mint Debian Edition (LMDE) based o
 
 - If your computer is relatively new and has more than 2 GB of RAM, download [LMDE 6 "Faye" 64bit](https://repo.greeklug.gr/data/pub/linux/mint/iso/debian/lmde-6-cinnamon-64bit.iso).
 - If your computer is older and has less than 2 GB of RAM, you might want to look at lighter options like antiX or Puppy Linux because LMDE needs at least 2 GB of RAM.
-Still want LMDE? [LMDE for 32-bit machines](https://repo.greeklug.gr/data/pub/linux/mint/iso/debian/lmde-6-cinnamon-32bit.iso).
+Still want LMDE? [LMDE 6 "Faye" 32bit](https://repo.greeklug.gr/data/pub/linux/mint/iso/debian/lmde-6-cinnamon-32bit.iso).
 
 !!! note
     Both mirrors use [GreekLUG](https://www.greeklug.gr/en/)
@@ -14,7 +14,7 @@ After downloading, follow the instructions to create a [live USB stick](liveusb.
 ## Why Choose LMDE?
 
 !!! info
-    This section gives extra details. You may skip it if you’re in a hurry.
+    This section gives extra details. You may skip it.
 
 Here are some reasons why LMDE is a great choice compared to other operating systems:
 
